@@ -1,0 +1,58 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body{
+   background-image: url(food.jpg);
+   background-size: cover;
+}
+
+h1.main-h1{
+    padding-left: 8%;
+    padding-top: 15%;
+    font-size: 80px;
+    color: bisque;
+}
+
+a, li, p{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+ul{
+    list-style: inside;
+    padding-left: 8%;
+}
+
+.button{
+    padding-left: 55rem;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+}
+
+.homebutt{
+        background-color: bisque;
+        color: black;
+        padding: 15px 25px;
+        text-decoration: none;
+        cursor: pointer;
+        border: none;
+      
+}
+
+h2{
+    font-size: 50px;
+    color: bisque;
+}
+
+h1{
+    font-size: 80px;
+    color: bisque;
+}
+
+img{
+    padding-left: 20rem;
+}
